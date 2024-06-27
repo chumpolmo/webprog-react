@@ -1,8 +1,6 @@
 {
   "scripts": {
-    "dev": "next dev",
-    "server": "node ./server/server.js",
-    "server-dev": "nodemon ./server/server.js"
+    "dev": "next dev"
   },
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.5.2",
