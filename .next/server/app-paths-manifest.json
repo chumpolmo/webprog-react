@@ -1,0 +1,7 @@
+{
+  "/activity/[act_id]/[usr_id]/page": "app/activity/[act_id]/[usr_id]/page.js",
+  "/studinfo/page": "app/studinfo/page.js",
+  "/checkin/[act_id]/[usr_id]/[lat]/[long]/page": "app/checkin/[act_id]/[usr_id]/[lat]/[long]/page.js",
+  "/page": "app/page.js",
+  "/acthistory/page": "app/acthistory/page.js"
+}

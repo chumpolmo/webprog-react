@@ -1,0 +1,49 @@
+{
+  "pages": {
+    "/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/page.css",
+      "static/chunks/app/page.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/layout.js"
+    ],
+    "/profile/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/profile/page.js"
+    ],
+    "/acthistory/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/acthistory/page.css",
+      "static/chunks/app/acthistory/page.js"
+    ],
+    "/activity/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/activity/page.css",
+      "static/chunks/app/activity/page.js"
+    ],
+    "/activity/[act_id]/[usr_id]/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/activity/[act_id]/[usr_id]/page.css",
+      "static/chunks/app/activity/[act_id]/[usr_id]/page.js"
+    ],
+    "/studinfo/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/studinfo/page.js"
+    ],
+    "/checkin/[act_id]/[usr_id]/[lat]/[long]/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/checkin/[act_id]/[usr_id]/[lat]/[long]/page.css",
+      "static/chunks/app/checkin/[act_id]/[usr_id]/[lat]/[long]/page.js"
+    ]
+  }
+}
